@@ -9,6 +9,7 @@ export const Header = () => {
             <NavLink to={'/modal'}>Modal</NavLink>
             <NavLink to={'/quiz'}>Quiz</NavLink>
             <NavLink to={'/users'}>Users</NavLink>
+            <NavLink to={'/currencyConventor'}>CurrencyConventor</NavLink>
         </div>
     );
 };
